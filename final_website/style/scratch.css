@@ -1,0 +1,27 @@
+body {background-color: #eed8b5}
+h1{
+    color: #342313;
+    text-align: right;
+}
+.fav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(92, 92, 27, 0.94);
+    font-size: medium;
+}
+.lesfav {
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+    font-size: medium;
+}
+.morefav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4c331c;
+    font-weight: bold;
+    font-size: medium;
+    text-decoration: underline;
+}
+.swm {
+    font-family: Arial, Helvetica, sans-serif;
+    color: Navy;
+    font-size: medium;
+}
